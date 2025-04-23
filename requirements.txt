@@ -1,0 +1,14 @@
+streamlit
+pandas
+requests
+plotly
+seaborn
+matplotlib
+numpy
+scipy
+statsmodels
+prophet
+folium
+streamlit-folium
+scikit-learn
+reportlab
