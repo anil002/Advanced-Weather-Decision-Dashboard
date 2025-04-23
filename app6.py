@@ -32,9 +32,9 @@ GRAPH_TYPES = ['Line', 'Histogram', 'Scatter', 'Bar', 'Box', 'Violin']
 
 # Initialize session state for latitude and longitude
 if 'latitude' not in st.session_state:
-    st.session_state['latitude'] = 52.52
+    st.session_state['latitude'] = 28.70
 if 'longitude' not in st.session_state:
-    st.session_state['longitude'] = 13.41
+    st.session_state['longitude'] = 77.10
 
 # Sidebar for inputs
 st.sidebar.header("Data Selection")
