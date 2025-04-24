@@ -26,7 +26,7 @@ st.set_page_config(page_title="Advanced Weather Decision Dashboard", layout="wid
 # Title
 st.title("Advanced Weather Decision Dashboard")
 st.markdown("Developed by: **Dr. Anil Kumar Singh**")
-st.markdown("Email:**singhanil854@gmail.com**")
+st.markdown("Email: **singhanil854@gmail.com**")
 
 # Available variables
 VARIABLES = ['temperature', 'humidity', 'wind_speed', 'wind_direction', 'precipitation', 'cloud_cover', 'pressure', 'surface_temperature', 'dew_point']
